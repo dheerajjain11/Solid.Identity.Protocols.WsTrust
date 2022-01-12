@@ -28,9 +28,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.ServiceModel.Security
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".samples", ".samples", "{EC2110CF-2F73-4465-94C0-96A2E1F0553E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsTrust.Sts.Sample", "..\samples\WsTrust.Sts.Sample\WsTrust.Sts.Sample.csproj", "{6C9528C9-5222-4AE0-909D-87BCA5ABA3DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsTrust.Sts.Sample", "samples\WsTrust.Sts.Sample\WsTrust.Sts.Sample.csproj", "{6C9528C9-5222-4AE0-909D-87BCA5ABA3DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsTrust.Client.Sample", "..\samples\WsTrust.Client.Sample\WsTrust.Client.Sample.csproj", "{E5D7E647-61B0-4321-B762-E29AFF9D7434}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsTrust.Client.Sample", "samples\WsTrust.Client.Sample\WsTrust.Client.Sample.csproj", "{E5D7E647-61B0-4321-B762-E29AFF9D7434}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
